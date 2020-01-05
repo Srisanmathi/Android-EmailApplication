@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EmailApp</string>
+    <string name="bt_login">Login</string>
+    <string name="bt_signup">Sign Up</string>
+    <string name="et_email">Email</string>
+    <string name="et_password">Password</string>
+    <string name="et_fname">First Name</string>
+    <string name="et_lname">Last name</string>
+    <string name="Email">Email</string>
+    <string name="ChoosePassword">Choose Password</string>
+    <string name="RepeatPassword">Repeat Password</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="tv_subject">Subject :</string>
+    <string name="et_message">Message : </string>
+    <string name="createdAt">Created At :</string>
+    <string name="sender">Sent By :</string>
+    <string name="back">Go Back</string>
+    <string name="emailmain">Email</string>
+</resources>
